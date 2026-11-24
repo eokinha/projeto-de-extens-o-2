@@ -2,6 +2,8 @@
 
 Tema: **Aplicações da Estatística na Resolução de Problemas**.
 
+> 📋 **Retomando o projeto?** Comece por [`PROXIMOS-PASSOS.md`](PROXIMOS-PASSOS.md): situação atual, pendências e plano até a entrega.
+
 ## Estrutura
 
 | Pasta | Conteúdo |
