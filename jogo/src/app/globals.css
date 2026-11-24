@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-acai: #6b2a7b;
+  --color-acai-escuro: #4a1a56;
+  --color-acai-claro: #f3e8f6;
+  --font-sans: var(--font-nunito), system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #faf7fb;
+  color: #212529;
+}
